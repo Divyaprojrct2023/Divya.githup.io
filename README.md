@@ -1,2 +1,2 @@
-# Divya.githup.io
+# Divya.github.io
 Divya
